@@ -68,7 +68,9 @@ mi_proyecto/
   requirements.txt       # Dependencias (por ahora vacío / mínimo)
   .env.example           # Variables de entorno de ejemplo
   .gitignore
+```
 
 ## Ejecutar el script de scaffolding:
 
     python scaffold.py
+
